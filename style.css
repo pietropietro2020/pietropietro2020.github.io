@@ -1,0 +1,62 @@
+
+header {
+background-color: red;
+font-size: 130%;
+}
+h1 {
+   color: green;
+}
+.redd {
+color: red;
+}
+#pippo {
+color: blue;
+font-size: 20px;
+font-weight: bold;
+font-style: italic;
+}
+footer {
+color: red;
+font-size: 15px;
+font-style: italic;
+font-weight: bold;
+text-align: center;
+}
+body li {
+list-style: none;
+}
+a:link, a:visited{
+text-decoration: none;
+background-color: green;
+color: black;
+border: 1px solid blue;
+display: block;
+width: 200px;
+text-align: center;
+margin-bottom: 1px;
+}
+a:hover, a:active{
+background-color: red;
+color: green;
+}
+body li:nth-child(1){
+font-size: 35px;
+}
+section div:nth-child(odd) {
+background-color: grey;
+font-size: 21px;
+font-style: italic;
+}
+.ciao {
+font-size: 30px
+}
+section div:nth-child(odd):hover{
+background-color: red;
+cursor: pointer;
+}
+body header {
+font-size: 40px;
+color: maroon;
+text-align: center;
+font-weight: bold;
+}
