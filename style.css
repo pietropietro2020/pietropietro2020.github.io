@@ -1,3 +1,7 @@
+header {
+background-color: grey;
+font-size: 130%;
+}
 h1 {
    color: green;
 }
@@ -54,6 +58,7 @@ font-size: 40px;
 color: maroon;
 text-align: center;
 font-weight: bold;
-background-color: grey;
-font-size: 130%;
+backround-color: grey;
+display: block;
+text-align: center;
 }
