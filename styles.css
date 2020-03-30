@@ -1,0 +1,236 @@
+body {
+	font-size: 16px;
+	background-color: #000080;
+	color: #fff;
+	font-family: 'Liu Jian Mao Cao', cursive;
+    /*font-family: 'Anton', sans-serif;*/
+    font-family: 'Cinzel Decorative', cursive;
+    font-family: 'Fredericka the Great', cursive;
+    /*font-family: 'Herr Von Muellerhoff', cursive;*/
+    font-family: 'Oxygen', sans-serif;
+}
+h1 {
+	font-size: 36px;
+	font-family: 'Fredericka the Great', cursive;
+	font-weight: bold;
+	position: relative;
+	text-transform: uppercase;
+    text-shadow: 1px 1px 1px #222;
+}
+.ciao { /* questo era h1 */
+	font-size: 36px;
+	font-family: 'Cinzel Decorative', cursive;
+	font-family: 'Fredericka the Great', cursive;
+	font-weight: bold;
+	position: absolute;
+	left: 350px;
+	padding: 25px;
+	text-transform: uppercase;
+    text-shadow: 1px 1px 1px #222;
+}
+#header-nav {
+	/*background-color: #FFE4E1;*/
+	background-color: #FFDEAD;
+	border-radius: 0;
+	border: 0;
+}
+#logo-img {
+	background: url("http://localhost:3000/images/nasa%20(7).png") no-repeat;
+	width: 150px;
+	height: 150px;
+	margin: 10px 15px 10px 0;
+	position: relative;
+}
+/*#abc {
+	font-size: 30px;
+	position: 300px right;
+	float: right;
+	position: absolute;
+	left: 200px;*/
+	/*top: 65px;*/
+	/*font-family: 'Liu Jian Mao Cao', cursive;
+    /*font-family: 'Anton', sans-serif;*/
+    /*font-family: 'Cinzel Decorative', cursive;
+    font-family: 'Fredericka the Great', cursive;
+    /*font-family: 'Herr Von Muellerhoff', cursive;*/
+    /*font-weight: bold;
+	color: #000080;
+}*/
+/*.PIETRO {
+	position: absolute;
+	right: 0;
+	font-family: 'Cinzel Decorative', cursive;
+}*/
+#PIETRO4 {
+	position: absolute;
+	/*left: 589px; Cinzel Decorative*/ right: 10px;
+	top: 120px;
+	font-family: 'Cinzel Decorative', cursive;
+    float: right;
+    clear: both;
+    font-family: 'Fredericka the Great', cursive;
+	}
+#PIETRO3 {
+	position: absolute;
+	right: 10px;
+	top: 30px;
+	font-family: 'Cinzel Decorative', cursive;
+	float: right;
+	clear: both;
+	font-family: 'Fredericka the Great', cursive;
+	}
+#PIETRO2 {
+	position: absolute;
+	right: 10px;
+	top: 60px;
+	font-family: 'Cinzel Decorative', cursive;
+	float: right;
+	clear: both;
+	font-family: 'Fredericka the Great', cursive;
+	}
+#PIETRO1 {
+	position: absolute;
+	right: 10px;
+	top: 90px;
+	font-family: 'Cinzel Decorative', cursive;
+	float: right;
+	clear: both;
+	font-family: 'Fredericka the Great', cursive;
+	}
+#lista-opere {
+	float: left;
+}
+/*#scritte {
+	position: relative;
+
+}*/
+/*#scritte1 {
+	position: relative;
+	top: 120px;
+	left: 20px;
+}
+#scritte2 {
+	position: relative;
+	top: 360px;
+	left: 20px;
+}
+#scritte3 {
+	position: relative;
+	top: 600px;
+	left: 20px;
+}
+#scritte4 {
+	position: relative;
+	top: 830px;
+	left: 20px;
+}
+#scritte5 {
+	position: relative;
+	top: 1070px;
+	left: 20px;
+}
+#scritte6 {
+	position: relative;
+	top: 1310px;
+	left: 20px;
+}
+#scritte7 {
+	position: relative;
+	top: 1540px;
+	left: 20px;
+}
+#scritte8 {
+	position: relative;
+	top: 1780px;
+	left: 20px;
+}
+#scritte9 {
+	position: relative;
+	top: 2020px;
+	left: 20px;
+}*/
+ 
+
+/*#box1 {
+	border: 1px solid white;
+	width: 50%;
+	height: 250px;
+	float: right;
+}
+#box2 {
+	border: 1px solid white;
+	width: 50%;
+	height: 250px;
+	float: right;
+}
+#box3 {
+	border: 1px solid white;
+	width: 50%;
+	height: 250px;
+	float: right;
+}
+#box4 {
+	border: 1px solid white;
+	width: 50%;
+	height: 250px;
+	float: right;
+}
+#box5 {
+	border: 1px solid white;
+	width: 50%;
+	height: 250px;
+	float: right;
+}
+#box6 {
+	border: 1px solid white;
+	width: 50%;
+	height: 250px;
+	float: right;
+}
+#box7 {
+	border: 1px solid white;
+	width: 50%;
+	height: 250px;
+	float: right;
+}
+#box8 {
+	border: 1px solid white;
+	width: 50%;
+	height: 250px;
+	float: right;
+}
+#box9 {
+	border: 1px solid white;
+	width: 50%;
+	height: 250px;
+	float: right;
+}*/
+
+article p {
+	float: right;
+	width: 50%;
+	height: 250px;
+	border: 1px solid white;
+	margin: 10px; 
+	position: relative;
+	top: 0;
+}
+ol p span {
+	vertical-align: middle;
+	font-size: 20px;
+	font-family: 'Fredericka the Great', cursive;
+}
+
+li{
+	padding: 10px;
+}
+.bella {
+	position: absolute;
+	right: 0;
+	width: 48%;
+    height: 250px;
+    border: 1px solid white;
+    vertical-align: middle;
+    overflow: auto;
+}
+
