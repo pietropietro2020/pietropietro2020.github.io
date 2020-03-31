@@ -234,4 +234,7 @@ li{
     vertical-align: middle;
     overflow: auto;
 }
+audio {
+       autoplay
+}
 
